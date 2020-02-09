@@ -1,0 +1,136 @@
+/*Responsive*/
+
+@media screen {
+	h1 {
+		font-size:60px;
+	}
+
+	h2 {
+		font-size:40px;
+	}
+
+	h3 {
+		font-size:16px;
+	}
+
+	h4 {
+		font-size:24px;
+	}
+
+	h5 {
+		font-weight: bold;
+		font-size: 36px;
+	}
+
+	p {
+		font-size: 20px;
+		font-weight: normal;
+		line-height: 1.5em;
+		letter-spacing: .02em;
+	}
+}
+
+@media screen and (max-width: 1199px) {
+	h1 {
+		font-size:48px;
+	}
+
+	h2 {
+		font-size:40px;
+	}
+
+	h3 {
+		font-size:18px;
+	}
+
+	h4 {
+		font-size:24px;
+	}
+
+	h5 {
+		font-weight: bold;
+		font-size: 36px;
+	}
+
+	p {
+		font-size: 18px;
+		font-weight: normal;
+		line-height: 1.5em;
+		letter-spacing: .02em;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	h1 {
+		font-size:40px;
+	}
+
+	h2 {
+		font-size:30px;
+	}
+
+	h3 {
+		font-size:16px;
+	}
+
+	h4 {
+		font-size:20px;
+	}
+
+	h5 {
+		font-weight: bold;
+		font-size: 24px;
+	}
+
+	p {
+		font-size: 18px;
+		font-weight: normal;
+		line-height: 1.5em;
+		letter-spacing: .02em;
+	}
+
+	.nav-menu {
+		display: none;
+	}
+
+	.nav-color {
+		display: none;
+	}
+
+	.mobile-nav {
+		display: block;
+	}
+
+	.burger-menu {
+		display: block;
+	}
+
+	.project-description {
+		display: none;
+	}
+	.button.btn-white {
+		font-size: 16px;
+	}
+
+	.hero-image-01 {
+		background: url(../img/foodkeeper/cover-image-02@2x.jpg) center center no-repeat;
+	}
+	.hero-image-02 {
+		background: url(../img/minditation/cover-image-02@2x.jpg) center center no-repeat;
+	}
+	.hero-image-03 {
+		background: url(../img/funspot/cover-image-02@2x.jpg) center center no-repeat;
+	}
+	.hero-image-04 {
+		background: url(../img/doggo/cover-image-02@2x.jpg) center center no-repeat;
+	}
+	.hero-image-05 {
+		background: url(../img/graciasmadre/cover-image-02@2x.jpg) center center no-repeat;
+	}
+	.hero-image-06 {
+		background: url(../img/titlesequence/cover-image-02@2x.jpg) center center no-repeat;
+	}
+	.hero-image-07 {
+		background: url(../img/wish/cover-image-02@2x.jpg) center center no-repeat;
+	}
+}

@@ -1,0 +1,68 @@
+/*spacer*/
+/*created based on the guide Maria provided in WNM 755*/
+.tp-spc-xs {
+	padding-top: 10px;
+}
+.tp-spc-sm {
+	padding-top: 20px;
+}
+.tp-spc-md {
+	padding-top: 30px;
+}
+.tp-spc-lg {
+	padding-top: 50px;
+}
+.tp-spc-xl {
+	padding-top: 100px;
+}
+.bt-spc-xs {
+	padding-bottom: 10px;
+}
+.bt-spc-sm {
+	padding-bottom: 20px;
+}
+.bt-spc-md {
+	padding-bottom: 30px;
+}
+.bt-spc-lg {
+	padding-bottom: 50px;
+}
+.bt-spc-xl {
+	padding-bottom: 100px;
+}
+
+@media (max-width:1199px) {
+	.tp-spc-xl {
+		padding-top: 70px;
+	}
+	.bt-spc-xl {
+		padding-bottom: 70px;
+	}
+}
+
+@media (max-width: 768px) {
+	.tp-spc-sm {
+		padding-top: 15px;
+	}
+	.tp-spc-md {
+		padding-top: 25px;
+	}
+	.tp-spc-lg {
+		padding-top: 30px;
+	}
+	.tp-spc-xl {
+		padding-top: 45px;
+	}
+	.bt-spc-sm {
+		padding-bottom: 15px;
+	}
+	.bt-spc-md {
+		padding-bottom: 25px;
+	}
+	.bt-spc-lg {
+		padding-bottom: 30px;
+	}
+	.bt-spc-xl {
+		padding-bottom: 45px;
+	}
+}
