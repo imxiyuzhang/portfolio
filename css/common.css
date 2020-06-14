@@ -206,7 +206,7 @@ button.btn-white:hover {
   color: var(--color-black);
 }
 
-button.btn-white:hover {
+button.btn-black:hover {
   background-color: var(--color-black);
   color: var(--color-white);
 }
