@@ -188,14 +188,14 @@
 }
 
 /*Rise Web*/
-.tabgroup .tab-04.active {
+.tabgroup .tab-05.active {
     border-bottom: 3px solid var(--color-orange);
 }
 
-.tabgroup .tab-04:hover {
+.tabgroup .tab-05:hover {
     background-color: var(--color-orange);
 }
 
-.tabgroup .contentlist-04 {
+.tabgroup .contentlist-05 {
     border-top: 2px solid var(--color-orange);
 }
