@@ -158,6 +158,10 @@ header {
     padding: 0;
 }
 
+.project-title-dark {
+	color: var(--color-black);
+}
+
 .details {
 	display: block;
 }
