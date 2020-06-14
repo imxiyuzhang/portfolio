@@ -87,7 +87,7 @@ p {
 }
 
 .solution-failed {
-	color: var(--color-grey);
+	color: var(--color-dark-grey);
 }
 
 .competitor-list {
