@@ -13,6 +13,7 @@
 	--color-dark-grey:#8F8F8F;
 	--color-grey:#D3D9E0;
 	--color-white:#FFFFFF;
+	--color-orange:#EDAF8F
     --form-iput-padding: 30px 0 5px 0;
     --button-radius: 100px;
 }
@@ -74,6 +75,13 @@
 	background-size: cover;
 }
 
+.hero-image-08 {
+	width: 100%;
+	height: 600px;
+	background: url(../img/riseweb/cover-image@2x.jpg) center center no-repeat;
+	background-size: cover;
+}
+
 .project-subtitle {
 	color: var(--color-purple);
 	font-family: 'IBM Plex Sans', sans-serif;
@@ -115,6 +123,14 @@
 
 .learn-06 {
     color: var(--color-pink);
+}
+
+.learn-07 {
+    color: var(--color-pink);
+}
+
+.learn-08 {
+    color: var(--color-orange);
 }
 
 /*different color on the tabs based on the project*/
