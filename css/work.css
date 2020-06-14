@@ -186,3 +186,16 @@
 .tabgroup .contentlist-04 {
     border-top: 2px solid var(--color-light-blue);
 }
+
+/*Rise Web*/
+.tabgroup .tab-04.active {
+    border-bottom: 3px solid var(--color-orange);
+}
+
+.tabgroup .tab-04:hover {
+    background-color: var(--color-orange);
+}
+
+.tabgroup .contentlist-04 {
+    border-top: 2px solid var(--color-orange);
+}
