@@ -86,6 +86,10 @@ p {
 /*	margin-bottom: 1rem;*/
 }
 
+.solution-failed {
+	color: var(--color-grey);
+}
+
 .competitor-list {
 	font-size: 20px;
 	font-weight: normal;
