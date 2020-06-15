@@ -10,7 +10,7 @@ header {
 }
 
 .footer {
-	display: block;
+				display: block;
     text-align: center;
     border-top: var(--color-grey) solid 0.5px;
 }
@@ -155,6 +155,10 @@ header {
 .photo-section {
 	padding-left: 0;
 	padding-right: 0;
+}
+
+.btn-resume {
+	text-align: center;
 }
 
 /* ----------------------------------------------
