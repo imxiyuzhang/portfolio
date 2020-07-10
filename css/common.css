@@ -161,7 +161,7 @@ button.btn-regular {
 	color: var(--color-black);
 }
 
-.btn-resume {
+button.btn-resume {
 	margin-top: 40px;
 }
 
