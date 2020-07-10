@@ -161,6 +161,10 @@ button.btn-regular {
 	color: var(--color-black);
 }
 
+.btn-resume {
+	margin-top: 40px;
+}
+
 button.btn-white {
 	height: 100%;
 	max-height: 60px;
