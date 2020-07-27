@@ -144,11 +144,18 @@ header {
 	text-align: center;
 }
 
-.text-centered {
+/*.text-centered {
     position: absolute;
     top: 50%;
     margin-top: 0;
     margin-bottom: 0;
+    transform: translateY(-50%);
+}
+*/
+.intro-text-center {
+				text-align: center;
+    position: relative;
+    top: 50%;
     transform: translateY(-50%);
 }
 
